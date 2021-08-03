@@ -1,4 +1,4 @@
-# Assignment 6
+# Huffman Encoding
 
 ---
 
